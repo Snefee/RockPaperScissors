@@ -2,7 +2,7 @@
 #include <string>
 #include <ctime>
 #include <Windows.h>
-#include "../HEADERS/color.hpp"
+#include "../RockPaperScissors/headers/color.hpp"
 using namespace std;
 
 int main() {
